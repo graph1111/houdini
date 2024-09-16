@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/houdini/static/css/main.05fd0499.css",
-    "main.js": "/houdini/static/js/main.ea0ea6d7.js",
+    "main.js": "/houdini/static/js/main.654ac83b.js",
     "static/js/453.56f46472.chunk.js": "/houdini/static/js/453.56f46472.chunk.js",
     "index.html": "/houdini/index.html",
     "main.05fd0499.css.map": "/houdini/static/css/main.05fd0499.css.map",
-    "main.ea0ea6d7.js.map": "/houdini/static/js/main.ea0ea6d7.js.map",
+    "main.654ac83b.js.map": "/houdini/static/js/main.654ac83b.js.map",
     "453.56f46472.chunk.js.map": "/houdini/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05fd0499.css",
-    "static/js/main.ea0ea6d7.js"
+    "static/js/main.654ac83b.js"
   ]
 }
