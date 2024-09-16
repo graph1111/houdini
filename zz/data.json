@@ -1,0 +1,57 @@
+{
+    "savednodepaths": [
+        {
+            "nodename": "stage",
+            "parentpath": "/"
+        },
+        {
+            "nodename": "geo2",
+            "parentpath": "/obj"
+        }
+    ],
+    "stepdata": [
+        {
+            "imgdata": [
+                "a0_1.jpg"
+            ],
+            "textdata": "\uc124\uba85 \ub4e4\uc5b4\uac08 \uacf3",
+            "selectednodepath": "/obj/geo2/box1"
+        },
+        {
+            "imgdata": [
+                "a1_1.jpg"
+            ],
+            "textdata": "empty",
+            "selectednodepath": "/obj/geo2/subdivide1"
+        },
+        {
+            "imgdata": [
+                "a2_1.jpg"
+            ],
+            "textdata": "empty",
+            "selectednodepath": "/obj/geo2/group1"
+        },
+        {
+            "imgdata": [
+                "a3_1.jpg"
+            ],
+            "textdata": "empty",
+            "selectednodepath": "/obj/geo2/peak1"
+        },
+        {
+            "imgdata": [
+                "a4_1.jpg"
+            ],
+            "textdata": "empty",
+            "selectednodepath": "/obj/geo2/normal1"
+        },
+        {
+            "imgdata": [
+                "a5_1.jpg",
+                "a5_2.jpg"
+            ],
+            "textdata": "empty",
+            "selectednodepath": "/stage/karmarendersettings1"
+        }
+    ]
+}
